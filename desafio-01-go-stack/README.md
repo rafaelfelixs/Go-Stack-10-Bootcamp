@@ -6,15 +6,15 @@ https://github.com/Rocketseat/bootcamp-gostack-desafio-01/blob/master/README.md#
 
 # Tecnologias utlizadas
 
-Nodejs
-Express
-Nodemon
+Nodejs |
+Express |
+Nodemon |
 Insomnia
 
 # Conceitos :rocket:
 
-Criando api
-Query e Route params
-CRUD da api
-Middlewares e funções de teste
+Criando api |
+Query e Route params |
+CRUD da api |
+Middlewares e funções de teste |
 Debug da api no VSCode
